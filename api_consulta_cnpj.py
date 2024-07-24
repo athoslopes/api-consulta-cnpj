@@ -32,7 +32,7 @@ def consultar_api(cnpj):
         "mobile_sem_login": "",
         "login_cpf": "",
         "login_senha": "",
-        "token": "B9km9f8wfeJbfZK3CNefWmDrzjJbAEIuJhtQ4ZlZ",
+        "token": "informe_token",
         "timeout": 300
     }
 
